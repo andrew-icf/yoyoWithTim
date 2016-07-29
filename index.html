@@ -44,7 +44,7 @@
             </nav>
         </div>
         <div class="yoyo" ng-repeat="yoyo in view.yoyos | filter: view.query">
-            <img ng-hide="yoyo.videoToggle" ng-src="{{yoyo.imageUrl}}" alt="yoyo" width="100vw" />
+            <img ng-hide="yoyo.videoToggle" ng-src="{{yoyo.imageURL}}" alt="yoyo" width="100vw" />
             <div ng-hide="yoyo.videoToggle == false" class="">
                 <youtube-video video-id="yoyo.videoUrl"></youtube-video>
             </div>
