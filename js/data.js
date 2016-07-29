@@ -17,7 +17,7 @@ var yoyoData = [
         "price": 12.99,
         "rating": 4,
         "imageUrl": "https://yoyotricks.com/wp-content/uploads/2015/07/YoyoJam-Transcend-Yoyo-BLue-Green-Blasted.jpg",
-        "videoUrl": "uHEs5JRFEUU",
+        "videoUrl": "0DxYxxZPJxw",
         "videoToggle": false,
         "type": "hard"
     },
@@ -28,7 +28,7 @@ var yoyoData = [
         "price": 199.99,
         "rating": 9,
         "imageUrl": "http://vignette2.wikia.nocookie.net/rwbyfanon/images/a/a8/Yoyo_spiked.png/revision/latest?cb=20160311181259",
-        "videoUrl": "t5P-fdrlBg8",
+        "videoUrl": "gnuFrtTNUTc",
         "videoToggle": false,
         "type": "death"
     }
