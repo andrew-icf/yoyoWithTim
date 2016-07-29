@@ -6,3 +6,8 @@
 .clickable:hover {
     cursor: pointer;
 }
+
+img {
+    width: 30rem;
+    height: 30rem;
+}
